@@ -16,4 +16,3 @@ console.log("Your Use Name: " + Username);
 console.log("Your Date Of Birth: " + DOB);
 console.log("Password: " + Password);
 
-alert("Wellcome To MY Sesstion");
